@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+<defs><linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#101414"/><stop offset="1" stop-color="#080a0a"/></linearGradient>
+<linearGradient id="ac3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0099ff"/><stop offset="1" stop-color="#00d4a0"/></linearGradient></defs>
+<!-- transparan arka plan -->
+<g opacity="0.05" stroke="#fff"><path d="M0 100H800M0 200H800M0 300H800M0 400H800M0 500H800"/></g>
+<rect x="315" y="110" width="170" height="340" rx="26" fill="#1a1a1a" stroke="#333" stroke-width="2"/>
+<rect x="328" y="140" width="144" height="280" rx="6" fill="#0d0d0d"/>
+<rect x="368" y="122" width="64" height="9" rx="4.5" fill="#333"/>
+<rect x="360" y="250" width="80" height="64" rx="10" fill="none" stroke="url(#ac3)" stroke-width="3"/>
+<path d="M375 250v-16a25 25 0 0 1 50 0v16" fill="none" stroke="url(#ac3)" stroke-width="3"/>
+<circle cx="400" cy="280" r="7" fill="#00d4a0"/><rect x="397" y="285" width="6" height="14" rx="3" fill="#00d4a0"/>
+<g font-family="monospace" font-size="11" fill="#4a8f7f">
+<text x="348" y="360" fill="#4a8f7f">adb shell</text>
+<text x="348" y="378" fill="#3a6f63">frida -U -f app</text>
+<text x="348" y="396" fill="#3a6f63">ssl-pinning: <tspan fill="#ff5f56">bypass</tspan></text>
+</g>
+<g stroke="url(#ac3)" stroke-width="1.3" opacity="0.5" fill="none">
+<path d="M180 200H300"/><path d="M180 260H300"/><path d="M500 200H620"/><path d="M500 320H620"/></g>
+<g font-family="monospace" font-size="12" fill="#3a6f63">
+<text x="150" y="204">GET /api/v2</text><text x="150" y="264">Authorization:</text>
+<text x="628" y="204">200 OK</text><text x="628" y="324">token leak</text></g>
+<text x="400" y="500" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="#f0f0f0" text-anchor="middle" letter-spacing="1">MOBILE SECURITY · PENTEST</text>
+<text x="400" y="530" font-family="Arial, sans-serif" font-size="13" fill="#00d4a0" text-anchor="middle" letter-spacing="2">BITIRME PROJESI — 100/100</text>
+</svg>

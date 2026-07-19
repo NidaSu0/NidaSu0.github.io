@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1200" viewBox="0 0 960 1200">
+<defs><linearGradient id="lb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1520"/><stop offset="1" stop-color="#060a10"/></linearGradient></defs>
+<rect width="960" height="1200" fill="url(#lb)"/><rect width="960" height="300" fill="#0a2540" opacity="0.5"/>
+<g transform="translate(480 300)"><circle r="115" fill="#0d0d0d" stroke="#0a66c2" stroke-width="5"/><text y="40" font-family="Georgia" font-size="105" font-weight="700" fill="#0a66c2" text-anchor="middle">NS</text></g>
+<text x="480" y="500" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800" fill="#fff" text-anchor="middle">Nida Subaşı</text>
+<text x="480" y="548" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#9ac2e6" text-anchor="middle">Bilişim Güvenliği Teknolojisi</text>
+<text x="480" y="586" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#6a8faa" text-anchor="middle">Kapadokya Üniversitesi · Nevşehir</text>
+<g transform="translate(120 640)"><rect x="0" y="0" width="70" height="70" rx="14" fill="#0a66c2"/>
+<path d="M20 60h10v26h-10zM25 46a6 6 0 1 1 0 12 6 6 0 0 1 0-12M38 86V60h10v4c3-4 6-5 10-5 8 0 10 5 10 12v15h-10V73c0-4-1-6-5-6s-5 3-5 6v13z" fill="#fff"/>
+<text x="90" y="32" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#fff" font-weight="600">in/nida-subasi</text><text x="90" y="62" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#6a8faa">Siber güvenlik · ağ savunması · Python</text></g>
+<text x="120" y="800" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#9ac2e6" font-weight="700">Öne Çıkan Yetkinlikler</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#cfe0ee">
+<rect x="120" y="825" width="290" height="54" rx="27" fill="#12324f"/><text x="265" y="860" text-anchor="middle">Red Team Ops</text>
+<rect x="425" y="825" width="200" height="54" rx="27" fill="#12324f"/><text x="525" y="860" text-anchor="middle">Pentest</text>
+<rect x="120" y="895" width="200" height="54" rx="27" fill="#12324f"/><text x="220" y="930" text-anchor="middle">Python</text>
+<rect x="335" y="895" width="290" height="54" rx="27" fill="#12324f"/><text x="480" y="930" text-anchor="middle">Ağ Güvenliği</text>
+<rect x="120" y="965" width="230" height="54" rx="27" fill="#12324f"/><text x="235" y="1000" text-anchor="middle">Kriptoloji</text>
+<rect x="365" y="965" width="180" height="54" rx="27" fill="#12324f"/><text x="455" y="1000" text-anchor="middle">SDLC</text>
+</g>
+<text x="480" y="1120" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#4a6a84" text-anchor="middle" letter-spacing="2">PROFESSIONAL PROFILE</text></svg>
