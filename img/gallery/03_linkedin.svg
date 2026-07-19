@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000"><rect width="1000" height="1000" fill="none"/><g opacity="0.35" stroke="#0a66c2" stroke-width="2" fill="none">
+<path d="M150 130h55M150 130v55"/><path d="M850 130h-55M850 130v55"/>
+<path d="M150 870h55M150 870v-55"/><path d="M850 870h-55M850 870v-55"/></g><text x="500" y="230" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#0a66c2" text-anchor="middle" letter-spacing="6" font-weight="700">LINKEDIN</text>
+<g transform="translate(500 340)"><circle r="78" fill="#0d0d0d" stroke="#0a66c2" stroke-width="4"/><text y="26" font-family="Georgia" font-size="70" font-weight="700" fill="#0a66c2" text-anchor="middle">NS</text></g>
+<text x="500" y="480" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800" fill="#fff" text-anchor="middle">Nida Subaşı</text>
+<text x="500" y="522" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#9ac2e6" text-anchor="middle">Bilişim Güvenliği Teknolojisi</text>
+<text x="500" y="556" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#6a8faa" text-anchor="middle">in/nida-subasi</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#cfe0ee" text-anchor="middle">
+<rect x="270" y="600" width="200" height="52" rx="26" fill="#12324f"/><text x="370" y="633">Red Team Ops</text>
+<rect x="530" y="600" width="200" height="52" rx="26" fill="#12324f"/><text x="630" y="633">Pentest</text>
+<rect x="270" y="668" width="200" height="52" rx="26" fill="#12324f"/><text x="370" y="701">Python</text>
+<rect x="530" y="668" width="200" height="52" rx="26" fill="#12324f"/><text x="630" y="701">Ağ Güvenliği</text></g></svg>
